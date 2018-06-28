@@ -43,4 +43,3 @@ def play(board)
     x = x +1
   end
 end
-    
